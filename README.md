@@ -69,32 +69,23 @@ The project analyzes sales data for **April** and **May**, covering multiple e-c
 ```text
 ECommerceSalesDashboard/
 │── README.md
-│── ECommerce_Sales_Dashboard.xlsx
-│── images/
-│   ├── april-dashboard.png
-│   ├── may-dashboard.png
-│   └── dashboard-preview.png
+│── ECommerceSalesDashboard.xlsx
+│── Dashboard-Preview/
+│   ├── April Dashboard.png
+│   ├── May Dashboard.png
 ```
 
 ---
 
-## 📸 Dashboard Preview
-
 ### April Dashboard
 
-![April Dashboard](images/april-dashboard.png)
+![April Dashboard](Dashboard-Preview/April-Dashboard.png)
 
 ---
 
 ### May Dashboard
 
-![May Dashboard](images/may-dashboard.png)
-
----
-
-### Combined Dashboard Preview
-
-![Dashboard Preview](images/dashboard-preview.png)
+![May Dashboard](Dashboard-Preview/May-Dashboard.png)
 
 ---
 
