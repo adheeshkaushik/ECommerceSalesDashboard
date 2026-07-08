@@ -1,90 +1,166 @@
 # 📊 E-Commerce Sales Dashboard (Excel)
 
+An interactive **E-Commerce Sales Dashboard** built in **Microsoft Excel** to analyze and compare sales performance across multiple online marketplaces. This project provides actionable business insights through dynamic dashboards, KPIs, Pivot Tables, Charts, and Slicers.
+
+---
+
 ## 📌 Project Overview
 
-This project presents an interactive **E-Commerce Sales Dashboard** built in **Microsoft Excel** to analyze and compare sales performance across multiple online marketplaces. The dashboard provides valuable insights into revenue trends, order performance, customer behavior, and key business metrics for the months of **April** and **May**.
+The dashboard is designed to transform raw sales data into meaningful business insights. It enables users to monitor sales performance, compare monthly trends, evaluate key metrics, and support data-driven decision-making.
 
-Designed with interactive visualizations and dynamic reports, this dashboard helps businesses monitor performance, identify trends, and support data-driven decision-making.
+The project analyzes sales data for **April** and **May**, covering multiple e-commerce platforms such as **Myntra, Nykaa, Shopify, and Flipkart**.
 
 ---
 
 ## 🎯 Objectives
 
 - Analyze monthly sales performance.
-- Compare sales across multiple e-commerce platforms.
-- Track important business KPIs.
+- Compare sales across different e-commerce platforms.
+- Monitor important business KPIs.
 - Identify sales trends and growth opportunities.
-- Build an interactive and user-friendly dashboard.
+- Build an interactive and user-friendly Excel dashboard.
+- Present business insights using data visualization.
 
 ---
 
-## 🛠️ Tools & Features Used
+## 🛠️ Tools & Technologies
 
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- KPI Cards
 - Conditional Formatting
-- Data Validation
 - Excel Formulas
+- Data Validation
+- KPI Cards
 - Interactive Dashboard Design
 
 ---
 
 ## 📈 Key Performance Indicators (KPIs)
 
-- Total Sales
-- Total Orders
-- Average Order Value
-- Revenue Comparison
-- Platform-wise Performance
-- Monthly Sales Trends
-- Category-wise Analysis
+- 📦 Total Orders
+- 🚚 Delivered Orders
+- 💰 Total Revenue
+- 💵 Delivered Revenue
+- ❌ Return Count
+- 🔄 RTO Count
+- 🚫 Cancelled Orders
+- 📊 Return Percentage
+- 📈 Platform-wise Sales Performance
 
 ---
 
 ## ✨ Dashboard Features
 
-- Interactive dashboard with slicers
-- April and May sales comparison
-- Platform-wise sales analysis
-- Dynamic charts and visualizations
-- KPI summary cards
-- Clean and professional dashboard layout
+- Interactive Slicers
+- Monthly Sales Comparison (April vs May)
+- Marketplace-wise Performance Analysis
+- Revenue Tracking
+- Order Status Monitoring
+- KPI Summary Cards
+- Dynamic Charts
+- Professional Dashboard Layout
 
 ---
 
-## 📁 Project Files
+## 📂 Project Structure
 
-```
-📂 ECommerceSalesDashboard
+```text
+ECommerceSalesDashboard/
 │── README.md
 │── ECommerce_Sales_Dashboard.xlsx
+│── images/
+│   ├── april-dashboard.png
+│   ├── may-dashboard.png
+│   └── dashboard-preview.png
+```
+
+---
+
+## 📸 Dashboard Preview
+
+### April Dashboard
+
+![April Dashboard](images/april-dashboard.png)
+
+---
+
+### May Dashboard
+
+![May Dashboard](images/may-dashboard.png)
+
+---
+
+### Combined Dashboard Preview
+
+![Dashboard Preview](images/dashboard-preview.png)
 
 ---
 
 ## 🚀 Skills Demonstrated
 
 - Data Analysis
-- Data Visualization
 - Dashboard Development
+- Data Visualization
 - Business Reporting
 - KPI Analysis
 - Microsoft Excel
+- Business Intelligence
+- Analytical Thinking
 
 ---
 
-## 💡 Business Value
+## 💡 Business Insights
 
-This dashboard enables businesses to monitor sales performance across multiple online marketplaces, compare monthly trends, evaluate KPIs, and make informed business decisions through interactive data visualization.
+This dashboard enables businesses to:
+
+- Monitor monthly sales performance.
+- Compare revenue across multiple marketplaces.
+- Evaluate order fulfillment efficiency.
+- Track returns, cancellations, and RTOs.
+- Identify top-performing sales channels.
+- Support strategic business decisions through interactive reporting.
+
+---
+
+## 📷 Sample Dashboard
+
+The dashboard includes:
+
+- 📊 Sales Comparison Charts
+- 🥧 Order Distribution Charts
+- 📈 KPI Summary Cards
+- 🎛️ Interactive Filters (Slicers)
+- 📋 Performance Metrics Table
+
+---
+
+## 📚 Learning Outcomes
+
+Through this project, I gained hands-on experience in:
+
+- Designing interactive Excel dashboards
+- Creating business reports
+- Working with Pivot Tables & Pivot Charts
+- Applying Excel formulas for data analysis
+- Building KPI-driven dashboards
+- Presenting business insights visually
 
 ---
 
 ## 📌 Conclusion
 
-The **E-Commerce Sales Dashboard** demonstrates how Microsoft Excel can be used to transform raw sales data into meaningful business insights. By leveraging Pivot Tables, Charts, Slicers, and KPI reporting, the dashboard provides a comprehensive overview of sales performance in an interactive and visually appealing format.
+This project demonstrates how **Microsoft Excel** can be used as a powerful Business Intelligence tool to transform raw sales data into interactive dashboards and meaningful business insights. It showcases practical skills in data analysis, visualization, KPI reporting, and dashboard design that are valuable for Data Analyst roles.
 
 ---
 
-## ⭐ If you found this project helpful, consider giving it a Star!
+## 👩‍💻 Author
+
+**Adheesh Kaushik**
+
+Aspiring **Data Analyst** passionate about transforming data into meaningful insights using **Excel, SQL, Power BI, Python, and Data Visualization**.
+
+---
+
+⭐ **If you found this project useful, consider giving it a Star!**
